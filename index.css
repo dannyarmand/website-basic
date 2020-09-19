@@ -1,0 +1,36 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color:white;
+}
+
+.navbar li {display: inline-block;
+padding: 0 20px;
+}
+
+.navbar a { text-decoration: none;
+color: orangered;
+}
+
+a.blue {color:purple;}
+
+#greets ul {list-style-type: none;}
+
+.banner {background-color: #654ca0;
+color:white;
+margin-top:50px;
+text-align: center;
+padding: 100px 0px;
+}
+
+#small-liam {height:150px;
+width:200px;
+filter: drop-shadow(2px 2px 2px black);
+}
+
+#twitter { color: #654ca0;
+    font-size:100px;
+}
+
+.bold {font-weight: 900;}
